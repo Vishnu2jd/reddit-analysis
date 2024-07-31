@@ -12,7 +12,7 @@ I downloaded the top 1,000 posts (968, to be exact) from this subreddit over the
 
 Here are the results:
 
-    Engineering: 158 of 968 = 16.32%
+    Engineering: 158 of 968 => 16.32%
     Jobs situation: 371 => 38.32%
     Money: 251 => 26%
     Office Politics: 73 => 7.5%
@@ -20,4 +20,4 @@ Here are the results:
     Misc: 28 => 2.9%
     No context: 36 => 3.7%
 
-The classified posts are mostly correct, but there are some discrepancies.
+The classified posts are mostly correct, but there are some discrepancies when I verified manually
